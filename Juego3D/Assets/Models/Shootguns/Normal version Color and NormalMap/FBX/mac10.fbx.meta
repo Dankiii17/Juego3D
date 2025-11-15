@@ -3,7 +3,22 @@ guid: 470b6c78ec6f704499e181f8f7ab52a0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: c87dc777ca38be3458e89bbffd5516bd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mac10mat_color
+    second: {fileID: 2800000, guid: 0cc79cd44d4638743a54bcf8e16e47d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mac10mat_normal
+    second: {fileID: 2800000, guid: 7f21d8378f246e74a9e2d4c5ce1f838b, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
